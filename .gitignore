@@ -1,5 +1,3 @@
-### https://raw.github.com/github/gitignore/f2ce448f2ba7a092da05482ceca99209127c0884/Haskell.gitignore
-
 dist
 dist-*
 cabal-dev
@@ -20,5 +18,3 @@ cabal.sandbox.config
 .stack-work/
 cabal.project.local
 .HTF/
-
-
